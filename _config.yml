@@ -104,7 +104,7 @@ theme: redefine
 deploy:
   type: git
   repo: https://github.com/au12321ua/12321ua_blog.github.io.git
-  branch: master
+  branch: source
 
 search:
   path: search.xml

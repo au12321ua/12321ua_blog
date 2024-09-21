@@ -103,7 +103,7 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/au12321ua/12321ua_blog.github.io.git
+  repo: git@github.com:au12321ua/12321ua_blog.git
   branch: source
 
 search:

@@ -12,7 +12,26 @@ categories: ["others"]
 
 语法如下：
 
-编译错误，施工中...
+```
+{% notel [颜色] [可选: 自定义图标] [标题] %}
+内容
+支持换行
+{% endnotel %}
+```
+
+例如：
+
+{% notel default fa-info 信息 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
+
+{% notel blue 提示 %}
+换行测试
+换行测试
+换行测试
+{% endnotel %}
 
 ## 2. 按钮功能
 

@@ -1,5 +1,10 @@
 node_modules
+scaffolds
 *.log
 public/
 .deploy*/
 _multiconfig.yml
+.prettierignore
+.prettierrc
+_config.yml
+_config.redefine.yml
